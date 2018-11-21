@@ -1,1 +1,2 @@
 hii this repo contains source code for the practice of different machine learning algo
+keras 1.ipynb dataset link:http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiOTU1NjU4OCIsImRlbGl2ZXJ5X2lkIjoiNDI1MDIxNzQ5MiIsInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qYnJvd25sZWUvRGF0YXNldHMvbWFzdGVyL3BpbWEtaW5kaWFucy1kaWFiZXRlcy5kYXRhLmNzdj9fX3M9bnhhdWYzMXNkcDZpMnl4cGlqMTQifQ
