@@ -1,3 +1,2 @@
-hii this repo contains source code for the practice of different machine learning algo
-
-1)keras 1 and keras 2 ipynb dataset link:http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiOTU1NjU4OCIsImRlbGl2ZXJ5X2lkIjoiNDI1MDIxNzQ5MiIsInVybCI6Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qYnJvd25sZWUvRGF0YXNldHMvbWFzdGVyL3BpbWEtaW5kaWFucy1kaWFiZXRlcy5kYXRhLmNzdj9fX3M9bnhhdWYzMXNkcDZpMnl4cGlqMTQifQ
+This repository is a collection for many notebooks created over a span of time for practicing Machine Learning Algoritms.
+If any credits are missing, feel free to connect and I will be happy to update the same.
